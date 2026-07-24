@@ -1,2 +1,2 @@
-# my-cool-web
-Cool Web to Hack Club
+# My really COOL personal website
+This is a web with some COOL websites I made for Hack Club Stardance!
