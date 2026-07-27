@@ -1,6 +1,6 @@
 # My really COOL personal website
-This is a web I made for Hack Club Stardance!
-This web contains three of my most favourite websites. ç
+This is a web I made for Hack Club Stardance!<br>
+This web contains three of my most favourite websites. <br>
 Click on the navigation bar to move between subpages, and click "LINK TO PAGE" to visit the real websites.
 
 
